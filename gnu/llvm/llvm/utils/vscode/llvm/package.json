@@ -108,7 +108,7 @@
         ]
     },
     "devDependencies": {
-        "@types/node": "^8.10.59",
+        "@types/node": "^20.12.13",
         "@types/vscode": "^1.39.0",
         "js-yaml": "^3.13.1",
         "tslint": "^5.16.0",
